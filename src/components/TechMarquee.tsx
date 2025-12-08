@@ -2,16 +2,16 @@
 
 export default function TechMarquee() {
   const tech = [
-    { name: "React", img: "/logos/react.svg" },
-    { name: "TypeScript", img: "/logos/typescript.svg" },
-    { name: "Node.js", img: "/logos/node.svg" },
-    { name: "Python", img: "/logos/python.svg" },
-    { name: "C++", img: "/logos/c++.svg" },
-    { name: "MySQL", img: "/logos/mysql.svg" },
-    { name: "Firebase", img: "/logos/firebase.svg" },
-    { name: "AWS", img: "/logos/aws.svg" },
-    { name: "Flutter", img: "/logos/flutter.svg" },
-    { name: "Salesforce", img: "/logos/salesforce.svg" },
+    { name: "React", img: "logos/react.svg" },
+    { name: "TypeScript", img: "logos/typescript.svg" },
+    { name: "Node.js", img: "logos/node.svg" },
+    { name: "Python", img: "logos/python.svg" },
+    { name: "C++", img: "logos/c++.svg" },
+    { name: "MySQL", img: "logos/mysql.svg" },
+    { name: "Firebase", img: "logos/firebase.svg" },
+    { name: "AWS", img: "logos/aws.svg" },
+    { name: "Flutter", img: "logos/flutter.svg" },
+    { name: "Salesforce", img: "logos/salesforce.svg" },
   ];
 
   const items = [...tech, ...tech, ...tech, ...tech];

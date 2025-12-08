@@ -75,7 +75,7 @@ export default function AboutSection() {
             <div className="tech-card p-6 rounded-lg border border-border/50 shadow-lg hover:shadow-xl hover:border-primary/50 transition-all duration-300">
               <div className="flex items-center gap-3 mb-4">
                 <Image
-                  src="/logos/vit-bhopal.svg"
+                  src="logos/vit-bhopal.svg"
                   alt="VIT Bhopal logo"
                   width={40}
                   height={40}
